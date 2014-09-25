@@ -1,2 +1,1 @@
-window.test = '';
-alert(/test/);
+window['HackAck'] = true;
